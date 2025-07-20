@@ -1,2 +1,2 @@
 # DesktopLocker
-Protects your desktop from intruders
+Protects your desktop from intruders - middle school coding project
